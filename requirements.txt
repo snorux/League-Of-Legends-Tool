@@ -1,0 +1,4 @@
+keyboard
+PyQt5
+opencv-python
+pyautogui
