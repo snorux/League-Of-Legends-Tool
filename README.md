@@ -1,6 +1,8 @@
 # League Of Legends Tool
 A tool designed to allow League Of Legends players to auto-accept, role call &amp; lock-in a champion.  
-Made specifically for servers with only blink pick (Garena)
+Made specifically for servers with only blink pick (Garena)  
+
+## Make sure your client is in: 1280x720 for it to work properly
 
 ## Features
 - Clean GUI
