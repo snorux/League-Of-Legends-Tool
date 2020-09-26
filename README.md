@@ -27,7 +27,9 @@ Note:
   
 <p align="center">
   <img src="https://i.snowy.gg/2Gur7CB.gif" alt="GIF">
-</p>
+</p>  
+
+[Tool In Action](https://i.snowy.gg/ryU2L3y.gif)
 
 ## Alternative method
 1. Download the repo
